@@ -1,0 +1,10 @@
+cache/
+launchers/
+preloaded/
+target/
+dependency/
+staging/
+templates/
+zinc/
+server
+sonatype.sbt
