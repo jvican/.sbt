@@ -6,5 +6,6 @@ dependency/
 staging/
 templates/
 zinc/
-server
+server/
 sonatype.sbt
+boot/
